@@ -1,0 +1,27 @@
+[
+  {
+    "modell": "Iphone 12",
+    "color": "Black",
+    "price": "12500",
+    "id": "705"
+  },
+  {
+   "modell": "Samsung s22",
+   "color":  "Ocean blue",
+   "price": "11000",
+   "id": "706"
+  },
+  {
+    "modell": "Mi 13pro",
+    "color": "Golden gold",
+    "price": "14300",
+    "id": "707"
+  },
+  {
+    "modell": "Vivo x90",
+    "color": "Sky blue",
+    "price": "19200",
+    "id": "708"
+  }
+
+]

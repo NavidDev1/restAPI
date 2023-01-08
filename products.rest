@@ -1,0 +1,29 @@
+GET http://localhost:3000/products
+
+//Hämtar alla produkter
+###
+
+
+POST http://localhost:3000/products
+Content-type: application/json
+
+{
+  "name": "nokia 28",
+  "color": "Golden green",
+  "price": "15300",
+  "id": "710"
+}
+
+//lägger till en produkt
+###
+
+PUT http://localhost:3000/products
+
+//Uppdaterar 
+###
+
+DELETE http://localhost:3000/products
+
+//Raderar alla produkter
+
+###

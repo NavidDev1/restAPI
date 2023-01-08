@@ -1,2 +1,3 @@
 # restAPI
-Crud 
+npm install
+nodemon server.js
